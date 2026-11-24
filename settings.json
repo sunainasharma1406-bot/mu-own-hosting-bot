@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "your.server.ip",
-    "port": 25565,
+    "ip": "LaPeace-Diamond.aternos.me:38647",
+    "port": 38647,
     "version": "",
     "try-creative": false
   },
